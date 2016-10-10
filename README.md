@@ -1,7 +1,7 @@
 # Multiple Language Versions
 
-* [English](en/)
-* [中文](zh/)
+* [English](en/preface.md)
+* [中文](zh/preface.md)
 
 ## License
 Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
